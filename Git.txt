@@ -1,0 +1,9 @@
+It will help to compare any changes made to older version to help fix mistakes and typos.
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pro, Easily accessable. Cons, does not work off-line. No Editor, No Manual Save.
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+The files are interconnected, a change in one file can multiple files.
+How can you use the commands git log and git diff to view the history of files?
+Use git log to see the full log of changes. Use git diff to see what was changed.
+How might using version control make you more confident to make changes that could break something?
+You can always go back to find and change if an error was made.
